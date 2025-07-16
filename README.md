@@ -1,13 +1,6 @@
-Here’s a **complete `README.md`** for your Bitespeed Identity Reconciliation backend task, ready for GitHub.
-
-You can copy-paste this into your `README.md` file and replace placeholders like your Render URL, GitHub repo name, and screenshot image path.
-
----
 
 
 # Bitespeed Backend Task: Identity Reconciliation
-
-![screenshot](/postman%20eg.png)
 
 This project solves the Identity Reconciliation problem for Bitespeed. It consolidates contact records (email and phone numbers) across multiple purchases to maintain a unique customer identity.
 
@@ -112,7 +105,7 @@ Content-Type: application/json
 ```
 
 ---
-
+![screenshot](/postman%20eg.png)
 ## 🔁 Edge Case Handling
 
 * ✅ Only email provided
