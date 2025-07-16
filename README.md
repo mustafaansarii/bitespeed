@@ -4,8 +4,8 @@ You can copy-paste this into your `README.md` file and replace placeholders like
 
 ---
 
-````markdown
-# 🧠 Bitespeed Backend Task: Identity Reconciliation
+
+# Bitespeed Backend Task: Identity Reconciliation
 
 ![screenshot](/postman%20eg.png)
 
@@ -36,7 +36,7 @@ This project solves the Identity Reconciliation problem for Bitespeed. It consol
    ```bash
    git clone https://github.com/your-username/bitespeed-identity-reconciliation.git
    cd bitespeed-identity-reconciliation
-````
+
 
 2. **Create and activate a virtual environment**
 
