@@ -15,7 +15,7 @@ This project solves the Identity Reconciliation problem for Bitespeed. It consol
 ## 🔧 Tech Stack
 
 - **Framework:** Django (Python)
-- **Database:** SQLite (for local dev) / PostgreSQL (for deployment)
+- **Database:** SQLite
 - **Deployment:** Render.com
 - **API Format:** REST (JSON Body)
 
