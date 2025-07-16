@@ -6,9 +6,9 @@ This project solves the Identity Reconciliation problem for Bitespeed. It consol
 
 ---
 
-## 🚀 Live API
+## Live API
 
-👉 [https://your-render-app-url.onrender.com/identify](https://your-render-app-url.onrender.com/identify)
+👉 [https://bitespeed-identity-fz0m.onrender.com/identify](https://bitespeed-identity-fz0m.onrender.com/identify)
 
 ---
 
@@ -21,14 +21,14 @@ This project solves the Identity Reconciliation problem for Bitespeed. It consol
 
 ---
 
-## 📦 Setup Instructions
+## Setup Instructions
 
-### 🖥️ Local Development
+### Local Development
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/bitespeed-identity-reconciliation.git
-   cd bitespeed-identity-reconciliation
+   git clone https://github.com/mustafaansarii/bitespeed.git
+   cd bitespeed
 
 
 2. **Create and activate a virtual environment**
@@ -72,7 +72,7 @@ This project solves the Identity Reconciliation problem for Bitespeed. It consol
 
 ---
 
-## 🔍 Sample Request and Response
+## Sample Request and Response
 
 ### Request
 
@@ -106,7 +106,7 @@ Content-Type: application/json
 
 ---
 ![screenshot](/postman%20eg.png)
-## 🔁 Edge Case Handling
+## Edge Case Handling
 
 * ✅ Only email provided
 * ✅ Only phoneNumber provided
